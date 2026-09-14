@@ -27,6 +27,14 @@ You can install the necessary dependencies using pip:
 pip install streamlit langchain faiss openai
 ```
 
+## Features
+
+- Upload PDF documents directly in the Streamlit interface.
+- Split documents into overlapping text chunks for better retrieval.
+- Generate semantic embeddings using OpenAI.
+- Store embeddings in a FAISS vector database.
+- Ask natural-language questions and receive answers using RAG.
+
 ## Overview
 
 The application runs as follows:
