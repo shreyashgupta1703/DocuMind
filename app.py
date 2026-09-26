@@ -54,7 +54,7 @@ if uploaded_file :
     # Unlike user inputs, a system prompt is not visible to the end user.
 
     system_prompt = (
-        "You are a helpful assistante. Use the given context to answer the question."
+        "You are a helpful assistant. Use the given context to answer the question."
         "If you don't know the answer, say you don't know. "
         "{context}"
     )
