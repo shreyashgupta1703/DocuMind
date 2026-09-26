@@ -79,7 +79,7 @@ if uploaded_file :
 
 
     # Streamlit input for question
-    question = st.text_input("Ask a question about the document:")
+    question = st.text_input("Ask a question about the document:", placeholder="Enter your question here...")
     if question:
         # Answer
         response = chain.invoke({"input": question})['answer']
