@@ -162,3 +162,6 @@ This project is licensed under the MIT License.
 
 ## Document Parsing
 DocuMind extracts and prepares text from uploaded documents for downstream retrieval.
+
+## Chunking
+Documents are split into smaller chunks to improve retrieval quality and context handling.
