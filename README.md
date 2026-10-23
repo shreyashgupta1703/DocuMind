@@ -159,3 +159,6 @@ This project is licensed under the MIT License.
 [Website](https://gustavorsantos.me)<br>
 [Medium Blog](https://gustavorsantos.medium.com)<br>
 
+
+## Document Parsing
+DocuMind extracts and prepares text from uploaded documents for downstream retrieval.
