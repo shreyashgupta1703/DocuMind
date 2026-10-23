@@ -171,3 +171,6 @@ Text chunks are converted into vector embeddings for semantic similarity search.
 
 ## Retrieval
 The system retrieves relevant document chunks based on the user's question before generating an answer.
+
+## RAG Pipeline
+DocuMind combines retrieval with generation so responses are grounded in the uploaded documents.
