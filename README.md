@@ -165,3 +165,6 @@ DocuMind extracts and prepares text from uploaded documents for downstream retri
 
 ## Chunking
 Documents are split into smaller chunks to improve retrieval quality and context handling.
+
+## Embeddings
+Text chunks are converted into vector embeddings for semantic similarity search.
